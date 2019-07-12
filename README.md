@@ -13,4 +13,4 @@ Java SE Development Kit 8u60
 https://download.oracle.com/otn/java/jdk/8u60-b27/jdk-8u60-windows-x64.exe
 ```
 
-![](./fastjson.jpg)
+![](./Fastjson.jpg)
