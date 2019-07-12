@@ -1,6 +1,6 @@
-# fastjson-v1.2.47-RCE 漏洞复现
+# fastjson-RCE 漏洞复现
 
-## fastjson-1.2.47 <==
+## fastjson-1.2.47
 
 ### 资源下载:
 ```
@@ -89,5 +89,8 @@ public class Exploit implements ObjectFactory {
     }
 }
 ```
+## 参考链接
+
+https://www.03sec.com/3240.shtml
 
 
